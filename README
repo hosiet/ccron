@@ -1,0 +1,15 @@
+================================================================================
+                    CCRON - Yet Another cron-like daemon
+================================================================================
+
+Target
+------
+
+A small but useful C program to do jobs regularly, similar to `cron' utility.
+
+The main purpose is for learning C language.
+
+Usage
+-----
+
+To be continue...
